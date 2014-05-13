@@ -1,0 +1,11 @@
+# PyCharm
+# http://www.jetbrains.com/pycharm/webhelp/project.html
+.idea
+.iml
+
+__pycache__
+*.pyc
+*.py~
+*.log
+*.html~
+database.db
